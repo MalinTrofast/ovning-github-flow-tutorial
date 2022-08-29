@@ -17,7 +17,7 @@ Skapa en ny text fl `hobbies.txt`. I filen skriver du in en eller flera fritidsa
 
 ### 3)
 Nu ska du öppna en pull request och begära granskning. Pusha upp din branch till GitHub, skapa en pull request och
-begär "review" av ##MalinTrofast.
+begär "review" av ## MalinTrofast.
 
 ### 4)
 Om du fick okej från din granskare, gör en merge till main i webbläsaren. Tillbaka i ditt lokala repo ska du nu hämta
